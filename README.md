@@ -42,8 +42,8 @@ An e-commerce website developed for a plumbing and hardware supplies business.
 ## Contact
 
 - GitHub: https://github.com/Rebby98
-- LinkedIn: Add your LinkedIn profile here
-- Email: Add your email here
+- LinkedIn: https://www.linkedin.com/in/rebecca-mbui
+- Email: muthonibecca@gmail.com
 
 ## License
 
